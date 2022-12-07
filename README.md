@@ -1,1 +1,1 @@
-# project4_SOC_Infrastructure
+# Project4 - SOC Infrastructure
