@@ -1,5 +1,9 @@
 # Project4 - SOC Infrastructure
 
+### Finished Reports
+- [Network Assessment Report](https://github.com/apeg099/project4_SOC_Infrastructure/blob/main/Network%20Assessment.pdf)
+- [Defensive](https://github.com/apeg099/project4_SOC_Infrastructure/blob/main/Defensive.pdf)
+- [Offensive](https://github.com/apeg099/project4_SOC_Infrastructure/blob/main/Offensive.pdf)
 ## Overview
 
 You are working as a Security Engineer for X-CORP, supporting the SOC infrastructure. The SOC analysts have noticed some discrepancies with alerting in the Kibana system and the manager has asked the Security Engineering team to investigate. 
