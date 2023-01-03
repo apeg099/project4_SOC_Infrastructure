@@ -73,10 +73,6 @@ There are a few way to to view these log messages and their associated data opti
 
 ### Attacking Target 1
 
-Open the [Offensive Report Template](../../../Resources/OffensiveTemplate.md) and complete it while you progress this activity.
-
-You will need to run a few commands on `Target 1` in order to ensure that it forwards logs to Kibana. Follow the steps below:
-
 - Open the Hyper-V Manager.
 - Connect to `Target 1`.
 - Log in with username `vagrant` and password `tnargav`.
@@ -86,8 +82,6 @@ You will need to run a few commands on `Target 1` in order to ensure that it for
 This enables Filebeat, Metricbeat, and Packetbeat on the Target VM if they are not running already.
 
 Now that you've configured alerts, you'll attack the `Target 1` vulnerable VM on this network. 
-
-**Note**: Ignore the `Target 2` machine at this time.
 
 Complete the following steps:
 
